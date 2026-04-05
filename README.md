@@ -100,6 +100,9 @@ Right Click on RestFulServices -> Clean, Deploy
 Then right Click again -> Test Restful Web Services -> OK
 Write Something in the Text boxes to Test
 Output:
+
+
+
 PRACTICAL 4
 Aim: Develop application to consume Google’s search / Google’s Map
 RESTful web service.
@@ -138,13 +141,14 @@ print("\nOutput:")
 for key, value in result.items():
 print(f"{key}: {value}")
 Output:
+
+
+
+
+
 PRACTICAL 5
 Aim: Develop application to download image/video from server or upload
 image/video
-
-
-
-
 PART A: CREATE WEB SERVICE (SERVER SIDE)
 Step 1: Create New project -> Java Web -> Web Application
 Project name: UploadImage
